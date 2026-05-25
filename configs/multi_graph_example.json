@@ -1,0 +1,26 @@
+{
+  "datasets": [
+    {
+      "data_dir": "data/books-lp",
+      "feat_name": "image_feature.pt",
+      "ppr_path": "data/books-lp/ppr.pt",
+      "precomputed_batch_dir": "data/books-lp/batch_data/CAMEtrain",
+      "max_batches": 20
+    },
+    {
+      "data_dir": "data/amazon-cloth",
+      "feat_name": "image_feature.pt",
+      "ppr_path": "data/amazon-cloth/ppr.pt",
+      "precomputed_batch_dir": "data/amazon-cloth/batch_data/CAMEtrain",
+      "max_batches": 10
+    },
+    {
+      "data_dir": "data/product",
+      "feat_name": "image_feature.pt",
+      "ppr_path": "data/product/ppr.pt",
+      "precomputed_batch_dir": "data/product/batch_data/CAMEtrain",
+      "max_batches": 10
+    }
+  ]
+}
+
