@@ -1,7 +1,7 @@
 # CAME
 Official implementation of [A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs], accepted by ICML 2026.
 # Environment
-Python3.9.23,PyTorch2.8.0(CUDA12.8),and DGL1.1.3.
+Python3.9.23, PyTorch2.8.0(CUDA12.8), and DGL1.1.3.
 
 # How to use CAME
 ```bash
